@@ -1,0 +1,7 @@
+{
+	"name":"字符画",
+	"description":"将图片转为字符画，支持gif（需要安装python）",
+	"author":"super1207",
+	"version":"0.0.1",
+	"need_python":true
+}
