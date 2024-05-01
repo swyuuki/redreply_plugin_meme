@@ -1,6 +1,6 @@
 # 红色问答字符画插件
 
-[红色问答](https://github.com/super1207/redreply)的插件，用于根据动漫图片，查询动漫信息。
+[红色问答](https://github.com/super1207/redreply)的字符画插件。
 
 发送`#字符画` + 一张图片：
 
