@@ -1,6 +1,6 @@
 {
 	"name":"meme",
-	"description":"沙雕图制作（需要安装python）,首次安装必须优先执行一次 更新依赖 命令，后可删除安装依赖脚本",
+	"description":"沙雕图制作（需要安装python）,首次安装必须优先执行一次 更新依赖 命令，后可删除 更新依赖 脚本",
 	"author":"swyuuki",
 	"version":"0.0.1",
 	"need_python":true
